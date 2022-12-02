@@ -4,7 +4,7 @@
 
 	<groupId>601dfad5-7be8-47f4-a62f-6df888b86612</groupId>
 	<artifactId>pub-common-health-check</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
 	<name>${project.artifactId}</name>
@@ -177,7 +177,7 @@
 		<connection>scm:git@github.com:kowalewskij/health-check.git</connection>
 		<url>scm:git:https://github.com/kowalewskij/health-check.git</url>
     		<developerConnection>scm:git:https://github.com/kowalewskij/health-check.git</developerConnection>
-    		<tag>pub-common-health-check-1.0.0</tag>
+    		<tag>pub-common-health-check-1.0.1</tag>
     	</scm>	
 
 	<distributionManagement>
